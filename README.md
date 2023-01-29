@@ -9,12 +9,11 @@
 <p>🔗 <a href="https://www.linkedin.com/in/tdpauw/" rel="me">tdpauw</a></p>
 <p>🐦 <a href="https://twitter.com/tdpauw" rel="me">@tdpauw - frozen 🥶</a></p>
 
-Here are some ideas to get you started:
-
 - 😄 Pronouns: they/them
 - 💬 Ask me about IT Delivery optimisation for quality and speed
 
 <!--
+Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
