@@ -4,13 +4,12 @@
 **tdpauw/tdpauw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-🌐 <a rel="me" href="https://thinkinglabs.io/">ThinkingLabs</a>
-🐘 <a rel="me" href="https://mastodon.social/@tdpauw">@tdpauw<wbr/>@mastodon.social</a>
-🔗 <a rel="me" href="https://www.linkedin.com/in/tdpauw/">tdpauw</a>
-🐦 <a rel="me" href="https://twitter.com/tdpauw">@tdpauw - frozen 🥶</a>
-
-😄 Pronouns: they/them
-💬 Ask me about optimising IT Delivery for quality and speed
+- 😄 Pronouns: they/them
+- 💬 Ask me about optimising IT Delivery for quality and speed
+- 🌐 <a rel="me" href="https://thinkinglabs.io/">ThinkingLabs</a>
+- 🐘 <a rel="me" href="https://mastodon.social/@tdpauw">@tdpauw<wbr/>@mastodon.social</a>
+- 🔗 <a rel="me" href="https://www.linkedin.com/in/tdpauw/">tdpauw</a>
+- 🐦 <a rel="me" href="https://twitter.com/tdpauw">@tdpauw - frozen 🥶</a>
 
 <!--
 Here are some ideas to get you started:
