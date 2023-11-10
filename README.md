@@ -9,7 +9,7 @@
 - 🌐 <a rel="me" href="https://thinkinglabs.io/">ThinkingLabs</a>
 - 🐘 <a rel="me" href="https://mastodon.social/@tdpauw">@tdpauw<wbr/>@mastodon.social</a>
 - 🔗 <a rel="me" href="https://www.linkedin.com/in/tdpauw/">tdpauw</a>
-- 🐦 <a rel="me" href="https://twitter.com/tdpauw">@tdpauw - frozen 🥶</a>
+- 🟦 <a rel="me" href="https://bsky.app/profile/tdpauw.bsky.social">tdpauw</a>
 
 <!--
 Here are some ideas to get you started:
